@@ -1,0 +1,15 @@
+{
+  "name": "rapnerd",
+  "version": "1.0.0",
+  "description": "statistics on rap music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/praneeth12098/RapNerd.git)"
+  },
+  "author": "Praneeth Batte",
+  "license": "ISC"
+}
